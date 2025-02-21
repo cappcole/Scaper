@@ -1,0 +1,18 @@
+{
+    "env": {},
+    "entrypoint": "./.dist/index.js",
+    "function": "default",
+    "screenshot_files": [
+        "./assets/screenshot_1.png",
+        "./assets/screenshot_2.png",
+        "./assets/screenshot_3.png"
+    ],
+    "logo_file": "./assets/logo.png",
+    "banner_file": "./assets/banner.png",
+    "title": "Google Shopping Product Listing Scrapper",
+    "short_description": "Extract product information (product names, prices, ratings, reviews, and more) on Google Shopping by keywords.",
+    "version": "1.0.0",
+    "documentation_file": "./documentation.md",
+    "input_file": "./input.json",
+    "app_id": "be8c75a2-a4fc-4d6a-9325-98e49739ec54"
+}
